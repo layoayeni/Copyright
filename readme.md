@@ -1,0 +1,1 @@
+# This is a Copyright smart contract for creative writers
